@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthi-cmd/React.git"
+  },
+  "keywords": [],
+  "author": "Keerthi Appasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthi-cmd/React/issues"
+  },
+  "homepage": "https://github.com/keerthi-cmd/React#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.14.0",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "typescript-eslint": "^8.18.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.1.1",
+    "react-router-dom": "^7.1.1"
+  }
+}
