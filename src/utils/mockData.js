@@ -50,6 +50,7 @@ const resList = [
     data: {
       id: "255655",
       name: "Cake & Cream",
+      promoted:true,
       cloudinaryImageId: "ac57cc371e73f96f812613f58457aca3",
       areaName: "Jairaj Nagar",
       costForTwo: "₹200 for two",
@@ -65,6 +66,7 @@ const resList = [
     data: {
       id: "350363",
       name: "Haldiram's Sweets and Namkeen",
+      promoted:false,
       cloudinaryImageId: "25c3a7d394d6c5556b134385f7d665b0",
       avgRating: 4.6,
       veg: true,
@@ -84,6 +86,7 @@ const resList = [
     data: {
       id: "154891",
       name: "Rasraj Restaurant",
+      promoted:true,
       cloudinaryImageId: "egbr63ulc8h1zgliivd8",
       locality: "Civil Line",
       areaName: "Civil Lines",
@@ -103,6 +106,7 @@ const resList = [
     data: {
       id: "745961",
       name: "Balaji Restaurant",
+      promoted:false,
       cloudinaryImageId: "b8672fe52944c3599ea324d99d608300",
       locality: "Sai Rubber Stamp",
       areaName: "Jairaj Nagar",
@@ -116,6 +120,7 @@ const resList = [
     data: {
       id: "798745",
       name: "Friends Restaurant",
+      promoted:true,
       cloudinaryImageId: "b14cd9fc40129fcfb97aa7e621719d07",
       locality: "Gayatri Nagar",
       areaName: "Jairaj Nagar",
@@ -129,6 +134,7 @@ const resList = [
     data: {
       id: "314737",
       name: "RASOI the KITCHEN",
+      promoted:false,
       cloudinaryImageId: "yjymo9nhyn7rhvafsrd3",
       locality: "Sriram Chowk",
       areaName: "Bazar Ward",
@@ -142,6 +148,7 @@ const resList = [
     data: {
       id: "201454",
       name: "Morsels restaurants",
+      promoted:true,
       cloudinaryImageId: "aafe71251ef5328784652dc838cd91f3",
       locality: "Bazar Ward",
       areaName: "Chandrapur Locality",
@@ -157,6 +164,7 @@ const resList = [
     data: {
       id: "266124",
       name: "Trimurti Restaurant",
+      promoted:false,
       cloudinaryImageId: "8135c0066b06e2925c66930be4e9ffb5",
       locality: "Bazar Ward",
       areaName: "Chandrapur Locality",
@@ -172,6 +180,7 @@ const resList = [
     data: {
       id: "509254",
       name: "Saha Restaurant",
+      promoted:true,
       cloudinaryImageId: "z1ez4uc9idul2uj2v87g",
       areaName: "Jairaj Nagar",
       costForTwo: "₹300 for two",
