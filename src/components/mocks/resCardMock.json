@@ -1,0 +1,16 @@
+{
+  "data": {
+    "id": "255655",
+    "name": "Cake & Cream",
+    "promoted": true,
+    "cloudinaryImageId": "ac57cc371e73f96f812613f58457aca3",
+    "areaName": "Jairaj Nagar",
+    "costForTwo": "₹200 for two",
+    "cuisines": ["Bakery", "Hot-dog", "pastery", "Cake", "Thick- shake"],
+    "avgRating": 4.3,
+    "veg": true,
+    "parentId": "54670",
+    "avgRatingString": "4",
+    "totalRatingsString": "20+"
+  }
+}
